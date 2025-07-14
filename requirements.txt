@@ -6,7 +6,7 @@ pandas==2.2.2
 openpyxl==3.1.2            # pandas 读取 .xlsx 时默认用到
 
 # 图算法与图数据结构
-networkx==3.3             
+networkx          
 
 # ECharts 渲染组件（Streamlit 插件）
 streamlit-echarts==0.4.0  
